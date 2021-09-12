@@ -14,12 +14,12 @@ This projects aims at predicting if a customer will churn or not.
 ![EDA 4](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/eda/Education_Level_distribution.jpg)
 
 ## Running Files
-How do you run your files? What should happen when you run your files?
+
 Run the churn_library.py to obtain all information which includes: <br/>
 - EDA
 - Model
 - Classification report
-- logs
+- Logs
 ![report 1](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/results/Logistic_Regression_classification_report.jpg)
 ![report 2](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/results/Random_Forest_classification_report.jpg)
 ![report 3](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/results/XGBoost_classification_report.jpg)
