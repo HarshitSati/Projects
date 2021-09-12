@@ -9,6 +9,9 @@ who discontinue their subscriptions within a given time period.<br/>
 For more information about attrition check [here](https://www.investopedia.com/terms/c/churnrate.asp#:~:text=The%20churn%20rate%2C%20also%20known,within%20a%20given%20time%20period.) <br/>
 This projects aims at predicting if a customer will churn or not.
 ![This is an image](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/eda/Attrition_Flag_distribution.jpg)
+![EDA 2](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/eda/Card_Category_distribution.jpg)
+![EDA 3](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/eda/Customer_Age_distribution.jpg)
+![EDA 4](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/eda/Education_Level_distribution.jpg)
 
 ## Running Files
 How do you run your files? What should happen when you run your files?
