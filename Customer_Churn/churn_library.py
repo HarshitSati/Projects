@@ -1,6 +1,7 @@
 '''
 Project to predict which customers are likely to churn
 Author : Harshit Sati
+Date: 10-09-2021
 '''
 
 # import libraries
