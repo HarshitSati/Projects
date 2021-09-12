@@ -1,0 +1,8 @@
+Library Versions:
+Pandas = 1.2.4
+numpy = 1.19.5
+joblib = 0.13.2
+sklearn = 0.24.2
+seaborn = 0.11.1
+matplotlib = 3.4.2
+python = 3.7
