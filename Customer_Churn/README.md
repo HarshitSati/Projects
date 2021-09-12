@@ -27,5 +27,5 @@ Run the churn_library.py to obtain all information which includes: <br/>
 churn_script_logging_and_tests.py logs all the successes and failures 
 that occur in the important functions of churn_library.py.</br>
 A normal run will results in the logs file to look like this
-![logs] https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/logs/SS_logs_normal.png
+![logs](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/logs/SS_logs_normal.png)
 
