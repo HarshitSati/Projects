@@ -1,7 +1,7 @@
 
 ## Project Description
 
-The project is as example of software engineering practices + Data science.<br/>
+The project is as example of good software engineering practices in Data science.<br/>
 The **churn rate**, also known as the rate of attrition or customer churn, 
 is the rate at which customers stop doing business with an entity. 
 It is most commonly expressed as the percentage of service subscribers 
