@@ -29,7 +29,7 @@ Run the churn_library.py to obtain all information which includes: <br/>
 ![report 3](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/images/results/XGBoost_classification_report.jpg)
 ### Logging and Testing
 churn_script_logging_and_tests.py logs all the successes and failures 
-that occur in the important functions of churn_library.py.</br>
+that occur in the important functions of churn_library.py while testing the important functions.</br>
 A normal run will results in the logs file to look like this
 ![logs](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/logs/SS_logs_normal.png)
 
