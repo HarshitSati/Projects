@@ -1,6 +1,6 @@
 ## Predict Customer Churn
 
-- Project **Predict Customer Churn** assigned in ML DevOps Engineer Nanodegree Udacity
+- Project **Predict Customer Churn** assigned under ML DevOps Engineer Nanodegree Udacity
 
 
 ## Project Description
