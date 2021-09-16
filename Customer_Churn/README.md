@@ -1,6 +1,6 @@
-## Predict Customer Churn
+# Predict Customer Churn
 
-- Project **Predict Customer Churn** assigned under ML DevOps Engineer Nanodegree Udacity
+
 
 
 ## Project Description
@@ -33,5 +33,5 @@ churn_script_logging_and_tests.py logs all the successes and failures
 that occur in the important functions of churn_library.py while testing the important functions.</br>
 A normal run will results in the logs file to look like this
 ![logs](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/logs/SS_logs_normal.png)
-
+- Project **Predict Customer Churn** assigned under ML DevOps Engineer Nanodegree Udacity
 
