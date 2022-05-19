@@ -33,5 +33,10 @@ churn_script_logging_and_tests.py logs all the successes and failures
 that occur in the important functions of churn_library.py while testing the important functions.</br>
 A normal run will results in the logs file to look like this
 ![logs](https://github.com/HarshitSati/Projects/blob/main/Customer_Churn/logs/SS_logs_normal.png)</br>
-Project **Predict Customer Churn** assigned under ML DevOps Engineer Nanodegree Udacity
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
